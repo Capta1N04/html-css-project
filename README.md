@@ -1,3 +1,3 @@
 # html-css-project
 
-we are learning git :) 
+we are learning git! :) 
